@@ -8,7 +8,7 @@
 ##   
 
 <div align='center'>
-    <h2>Below you will read about some Solutions I have implemented on Amazon Web Services cloud platform</h3>
+    <h2>Below you will read about some solutions I have implemented on Amazon Web Services cloud platform</h3>
 </div>
 
 <!--
