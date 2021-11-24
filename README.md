@@ -153,8 +153,9 @@ The function steps shown in the diagram above are as follows:
 
 <br>
 <div align='center'>
-    <img src="Resources/181 Troubleshoot a VPC.PNG " alt="drawing" width="400" />
+    <img src="Resources/181 TroubleshootVPC.PNG " alt="drawing" width="600" />
 </div>
 <br>
+
 
 
