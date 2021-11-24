@@ -1,4 +1,4 @@
-# AWS Implementations
+# AWS Solutions Implementations
 
 <div align='center'>
     <img src="Resources/aws implementation.gif " alt="drawing" width="600" />
