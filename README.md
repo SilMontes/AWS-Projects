@@ -140,8 +140,8 @@ The function steps shown in the diagram above are as follows:
 
 <br>
 <div style="display: inline_block">
-    <img src="Resources/179 migrate rds 1.PNG " alt="drawing" width="400" />
-    <img src="Resources/179 migrate rds 2.PNG " alt="drawing" width="400" />
+    <img src="Resources/179 migrate rds 1.PNG " alt="drawing" width="350" />
+    <img src="Resources/179 migrate rds 2.PNG " alt="drawing" width="500" />
 </div>
 <br>
 
@@ -153,7 +153,7 @@ The function steps shown in the diagram above are as follows:
 
 <br>
 <div align='center'>
-    <img src="Resources/181 TroubleshootVPC.PNG " alt="drawing" width="600" />
+    <img src="Resources/181%20%20TroubleshootVPC.PNG " alt="drawing" width="600" />
 </div>
 <br>
 
